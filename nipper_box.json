@@ -1,0 +1,35 @@
+{
+    "parameterSets": {
+        "GodHand SNP120": {
+            "nipper_body_bottom_square_depth": "40",
+            "nipper_brand": "GodHand",
+            "nipper_cap_depth": "61",
+            "nipper_cap_width": "34.6",
+            "nipper_depth": "141",
+            "nipper_height": "11",
+            "nipper_model": "SNP-120",
+            "nipper_offset": "4",
+            "nipper_width": "60",
+            "text_carve_depth": "0.8",
+            "text_offset": "2",
+            "text_size": "10"
+        },
+        "Xuron MS-420": {
+            "nipper_body_bottom_square_depth": "40",
+            "nipper_brand": "Xuron",
+            "nipper_cap_depth": "40",
+            "nipper_cap_width": "34.6",
+            "nipper_depth": "127.5",
+            "nipper_height": "13",
+            "nipper_model": "MS-420",
+            "nipper_offset": "4",
+            "nipper_width": "59.6",
+            "text_carve_depth": "0.8",
+            "text_offset": "2",
+            "text_size": "8"
+        }
+    },
+    "fileFormatVersion": "1",
+    "parameterSets": "",
+    "parameterSets": ""
+}
